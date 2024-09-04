@@ -1,0 +1,29 @@
+{
+    "name": "LogiaGames.Game.Test.UnitTest",
+    "rootNamespace": "",
+    "references": [
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner",
+        "Zenject",
+        "Zenject-TestFramework",
+        "LogiaGames.Game.Runtime.Controller",
+        "LogiaGames.Game.Runtime.View",
+        "LogiaGames.Game.Runtime.Model"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll",
+        "NSubstitute.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

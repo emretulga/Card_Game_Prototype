@@ -1,0 +1,18 @@
+{
+    "name": "LogiaGames.Game.Runtime.View",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:f6b840206aa68c84c8cb33a4133b3da9",
+        "GUID:2d078c7a383400e488d75af754f47665"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
