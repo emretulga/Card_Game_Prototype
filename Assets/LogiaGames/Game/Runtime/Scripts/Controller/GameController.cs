@@ -42,6 +42,8 @@ namespace LogiaGames.Game.Runtime.Controller
             {
                 _chosenFirstCard = cardModel;
 
+                await revealingCardTask;
+
                 return;
             }
 
